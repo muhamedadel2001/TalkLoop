@@ -1,16 +1,34 @@
-# chatapp
+# TalkLoop
 
-A new Flutter project.
+TalkLoop is a feature-rich messaging application built with Flutter, leveraging Firebase Realtime Database, and designed
+to provide a seamless communication experience. Whether you’re chatting one-on-one or in groups, TalkLoop ensures
+real-time messaging, multimedia sharing, and user-friendly interactions.
 
-## Getting Started
+## Features
+🔹 Messaging: Instantly send and receive text messages with the latest chat appearing on the Home Screen.
 
-This project is a starting point for a Flutter application.
+🔹 Media Sharing: Share images, videos, and audio recordings effortlessly. Scroll through audio recordings to seek specific moments.
 
-A few resources to get you started if this is your first Flutter project:
+🔹 Voice and Video Calls: Make voice and video calls directly from the app with seamless integration (ZEGOCLOUD). 📞📹
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔹 Last Seen/Online Status: Check when your contacts were last active or if they are currently online. 👀
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔹 Read Receipts: Know when your messages have been delivered and read. ✅
+
+🔹 Notifications: Get push notifications for new messages, ensuring you never miss an update (FCM REST API). 🔔
+
+🔹 Image Saving: Save received images directly to your device. 📷
+
+🔹 Message Management: Delete, edit, or forward messages with ease. ✏️
+
+🔹 Friend Management: Add new friends and expand your social circle. 👥
+
+🔹 Profile Customization: Set and update profile pictures and status messages anytime. 🖼️
+
+🔹 Search Functionality: Quickly search through contacts and messages. 🔍
+
+🔹 User Authentication: Secure login with Google Sign-In to protect user accounts. 🔒
+
+🔹 Responsive Design: Enjoy a consistent and adaptive UI across various devices, including phones, tablets, and desktops. 📱💻
+
+
